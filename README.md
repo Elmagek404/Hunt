@@ -1,6 +1,12 @@
 A Python-based exploit script for the Escape_202 web challenge on CyberTalents. The script automates the exploitation process by sending a crafted HTTP POST request, searching for .txt files through the vulnerable search functionality,
 and attempting to extract and display the challenge flag from the server's response.
 
+**Challenge**: Escape_202 
+
+**Level Level**: Medium
+
+**Vulnerability**: PHP Remote Code Execution   
+
 ## Features
 **Automated Exploitation**: Sends a crafted POST request to the target endpoint.
 
