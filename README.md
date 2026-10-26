@@ -18,5 +18,10 @@ and attempting to extract and display the challenge flag from the server's respo
 
 ```pip install requests```
 
+##install  
+```
+git clone https://github.com/Elmagek404/Hunt
+```
+
 ## Usage 
 ```python exploit.py -u "http://TARGET_URL/"```
