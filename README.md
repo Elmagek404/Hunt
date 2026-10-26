@@ -3,7 +3,7 @@ and attempting to extract and display the challenge flag from the server's respo
 
 **Challenge**: Escape_202 
 
-**Level Level**: Medium
+**Level**: Medium
 
 **Vulnerability**: PHP Remote Code Execution   
 
