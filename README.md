@@ -3,9 +3,13 @@ and attempting to extract and display the challenge flag from the server's respo
 
 ## Features
 **Automated Exploitation**: Sends a crafted POST request to the target endpoint.
+
 **Command Injection Payload**: Uses a specially crafted search parameter to attempt to read matching text files.
+
 **Flag Detection**: Checks the HTTP response for the Flag{...} pattern.
+
 **Install the required dependency:**
+
 ```pip install requests```
 
 ## Usage 
